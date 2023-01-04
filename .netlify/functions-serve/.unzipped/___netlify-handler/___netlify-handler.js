@@ -1,0 +1,1 @@
+module.exports = require('./.netlify/functions-internal/___netlify-handler/___netlify-handler.js')
