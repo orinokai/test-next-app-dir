@@ -1,1 +1,0 @@
-module.exports = require('./.netlify/functions-internal/___netlify-odb-handler/___netlify-odb-handler.js')

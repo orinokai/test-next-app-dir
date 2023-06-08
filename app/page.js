@@ -1,5 +1,3 @@
-// app/page.js
-// This file maps to the index route (/)
-export default function Page() {
-  return <h1>Hello, Next.js!</h1>
+export default function Home() {
+  return <h1>Testing Next 13.4</h1>
 }
